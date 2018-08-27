@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/do-commom" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/do-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/do-manager/do-manager-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/do-manager/do-manager-dao/do-manager-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/do-manager/do-manager-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/do-manager/do-manager-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/do-manager/do-manager-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/do-manager/do-manager-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/do-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/do-portal-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/do-portal-web/src/main/webapp/index.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/do-service-common" charset="UTF-8" />
+  </component>
+</project>

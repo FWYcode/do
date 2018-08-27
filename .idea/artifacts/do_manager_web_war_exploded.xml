@@ -1,0 +1,30 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="do-manager-web:war exploded">
+    <output-path>$PROJECT_DIR$/do-manager/do-manager-web/target/do-manager-web-1.0-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="do-manager-web" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="do-manager-service-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="do-manager-service" />
+          </element>
+          <element id="archive" name="do-manager-dao-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="do-manager-dao" />
+          </element>
+          <element id="archive" name="do-manager-pojo-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="do-manager-pojo" />
+          </element>
+          <element id="archive" name="do-manager-interface-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="do-manager-interface" />
+          </element>
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/do-manager/do-manager-web/target/do-manager-web-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="do-manager-web/web/Web" />
+    </root>
+  </artifact>
+</component>

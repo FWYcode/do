@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/do-commom/do-commom.iml" filepath="$PROJECT_DIR$/do-commom/do-commom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/do-manager/do-manager.iml" filepath="$PROJECT_DIR$/do-manager/do-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/do-manager/do-manager-dao/do-manager-dao.iml" filepath="$PROJECT_DIR$/do-manager/do-manager-dao/do-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/do-manager/do-manager-interface/do-manager-interface.iml" filepath="$PROJECT_DIR$/do-manager/do-manager-interface/do-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/do-manager/do-manager-pojo/do-manager-pojo.iml" filepath="$PROJECT_DIR$/do-manager/do-manager-pojo/do-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/do-manager/do-manager-service/do-manager-service.iml" filepath="$PROJECT_DIR$/do-manager/do-manager-service/do-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/do-manager/do-manager-web/do-manager-web.iml" filepath="$PROJECT_DIR$/do-manager/do-manager-web/do-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/do-parent/do-parent.iml" filepath="$PROJECT_DIR$/do-parent/do-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/do-portal-web/do-portal-web.iml" filepath="$PROJECT_DIR$/do-portal-web/do-portal-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/do-service-common/do-service-common.iml" filepath="$PROJECT_DIR$/do-service-common/do-service-common.iml" />
+    </modules>
+  </component>
+</project>

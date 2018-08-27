@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="do-manager-web:war">
+    <output-path>$PROJECT_DIR$/do-manager/do-manager-web/target</output-path>
+    <root id="archive" name="do-manager-web-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="do-manager-web:war exploded" />
+    </root>
+  </artifact>
+</component>
